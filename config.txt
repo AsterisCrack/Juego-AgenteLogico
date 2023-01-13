@@ -1,0 +1,7 @@
+Pd=0.9
+Qd=0.2
+Pa=0.8
+Ps=0.9
+Qs=0.05
+Pr=0.85
+GoForDemogorgon=0.7
